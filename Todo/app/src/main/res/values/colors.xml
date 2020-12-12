@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#D50000</color>
+
+    <color name="colorTodoDone">#388E3C</color>
+    <color name="colorTodoDateTimeChange">#FFA000</color>
+
+    <color name="colorTodoSelected">#EEEEEE</color>
+
+    <color name="background">#212121</color>
+</resources>
